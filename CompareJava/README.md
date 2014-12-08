@@ -1,5 +1,6 @@
 Java & F90 transpose performance comparison
 ========
+The graph below show the comparison between parallel matrix transpose
 
 .. image:: ./tts.jpg
    :scale: 50 %
